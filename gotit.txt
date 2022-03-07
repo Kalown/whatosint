@@ -1,5 +1,0 @@
-https://web.whatsapp.com/send?phone=%2B916201954718 [can't curl cause watasapp not support it ]
-
-To kill the started process
-
-Taskkill /IM brave.exe /F
